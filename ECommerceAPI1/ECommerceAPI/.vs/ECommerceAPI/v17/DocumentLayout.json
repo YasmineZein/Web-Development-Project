@@ -1,0 +1,411 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2580493-B306-4589-9298-A9419C75B8C5}|ECommerceAPI\\ECommerceAPI.csproj|c:\\users\\abkrino\\desktop\\ecommerceapi\\ecommerceapi\\ecommerceapi\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2580493-B306-4589-9298-A9419C75B8C5}|ECommerceAPI\\ECommerceAPI.csproj|solutionrelative:ecommerceapi\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2580493-B306-4589-9298-A9419C75B8C5}|ECommerceAPI\\ECommerceAPI.csproj|c:\\users\\abkrino\\desktop\\ecommerceapi\\ecommerceapi\\ecommerceapi\\data\\sqlconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2580493-B306-4589-9298-A9419C75B8C5}|ECommerceAPI\\ECommerceAPI.csproj|solutionrelative:ecommerceapi\\data\\sqlconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2580493-B306-4589-9298-A9419C75B8C5}|ECommerceAPI\\ECommerceAPI.csproj|c:\\users\\abkrino\\desktop\\ecommerceapi\\ecommerceapi\\ecommerceapi\\data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2580493-B306-4589-9298-A9419C75B8C5}|ECommerceAPI\\ECommerceAPI.csproj|solutionrelative:ecommerceapi\\data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2580493-B306-4589-9298-A9419C75B8C5}|ECommerceAPI\\ECommerceAPI.csproj|c:\\users\\abkrino\\desktop\\ecommerceapi\\ecommerceapi\\ecommerceapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2580493-B306-4589-9298-A9419C75B8C5}|ECommerceAPI\\ECommerceAPI.csproj|solutionrelative:ecommerceapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2580493-B306-4589-9298-A9419C75B8C5}|ECommerceAPI\\ECommerceAPI.csproj|c:\\users\\abkrino\\desktop\\ecommerceapi\\ecommerceapi\\ecommerceapi\\dto\\productformdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2580493-B306-4589-9298-A9419C75B8C5}|ECommerceAPI\\ECommerceAPI.csproj|solutionrelative:ecommerceapi\\dto\\productformdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2580493-B306-4589-9298-A9419C75B8C5}|ECommerceAPI\\ECommerceAPI.csproj|c:\\users\\abkrino\\desktop\\ecommerceapi\\ecommerceapi\\ecommerceapi\\dto\\productresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2580493-B306-4589-9298-A9419C75B8C5}|ECommerceAPI\\ECommerceAPI.csproj|solutionrelative:ecommerceapi\\dto\\productresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2580493-B306-4589-9298-A9419C75B8C5}|ECommerceAPI\\ECommerceAPI.csproj|c:\\users\\abkrino\\desktop\\ecommerceapi\\ecommerceapi\\ecommerceapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2580493-B306-4589-9298-A9419C75B8C5}|ECommerceAPI\\ECommerceAPI.csproj|solutionrelative:ecommerceapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2580493-B306-4589-9298-A9419C75B8C5}|ECommerceAPI\\ECommerceAPI.csproj|c:\\users\\abkrino\\desktop\\ecommerceapi\\ecommerceapi\\ecommerceapi\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2580493-B306-4589-9298-A9419C75B8C5}|ECommerceAPI\\ECommerceAPI.csproj|solutionrelative:ecommerceapi\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2580493-B306-4589-9298-A9419C75B8C5}|ECommerceAPI\\ECommerceAPI.csproj|c:\\users\\abkrino\\desktop\\ecommerceapi\\ecommerceapi\\ecommerceapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2580493-B306-4589-9298-A9419C75B8C5}|ECommerceAPI\\ECommerceAPI.csproj|solutionrelative:ecommerceapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2580493-B306-4589-9298-A9419C75B8C5}|ECommerceAPI\\ECommerceAPI.csproj|c:\\users\\abkrino\\desktop\\ecommerceapi\\ecommerceapi\\ecommerceapi\\data\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2580493-B306-4589-9298-A9419C75B8C5}|ECommerceAPI\\ECommerceAPI.csproj|solutionrelative:ecommerceapi\\data\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2580493-B306-4589-9298-A9419C75B8C5}|ECommerceAPI\\ECommerceAPI.csproj|c:\\users\\abkrino\\desktop\\ecommerceapi\\ecommerceapi\\ecommerceapi\\dto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2580493-B306-4589-9298-A9419C75B8C5}|ECommerceAPI\\ECommerceAPI.csproj|solutionrelative:ecommerceapi\\dto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2580493-B306-4589-9298-A9419C75B8C5}|ECommerceAPI\\ECommerceAPI.csproj|c:\\users\\abkrino\\desktop\\ecommerceapi\\ecommerceapi\\ecommerceapi\\dto\\createorderresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2580493-B306-4589-9298-A9419C75B8C5}|ECommerceAPI\\ECommerceAPI.csproj|solutionrelative:ecommerceapi\\dto\\createorderresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2580493-B306-4589-9298-A9419C75B8C5}|ECommerceAPI\\ECommerceAPI.csproj|c:\\users\\abkrino\\desktop\\ecommerceapi\\ecommerceapi\\ecommerceapi\\data\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2580493-B306-4589-9298-A9419C75B8C5}|ECommerceAPI\\ECommerceAPI.csproj|solutionrelative:ecommerceapi\\data\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2580493-B306-4589-9298-A9419C75B8C5}|ECommerceAPI\\ECommerceAPI.csproj|c:\\users\\abkrino\\desktop\\ecommerceapi\\ecommerceapi\\ecommerceapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2580493-B306-4589-9298-A9419C75B8C5}|ECommerceAPI\\ECommerceAPI.csproj|solutionrelative:ecommerceapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2580493-B306-4589-9298-A9419C75B8C5}|ECommerceAPI\\ECommerceAPI.csproj|c:\\users\\abkrino\\desktop\\ecommerceapi\\ecommerceapi\\ecommerceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2580493-B306-4589-9298-A9419C75B8C5}|ECommerceAPI\\ECommerceAPI.csproj|solutionrelative:ecommerceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2580493-B306-4589-9298-A9419C75B8C5}|ECommerceAPI\\ECommerceAPI.csproj|c:\\users\\abkrino\\desktop\\ecommerceapi\\ecommerceapi\\ecommerceapi\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2580493-B306-4589-9298-A9419C75B8C5}|ECommerceAPI\\ECommerceAPI.csproj|solutionrelative:ecommerceapi\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2580493-B306-4589-9298-A9419C75B8C5}|ECommerceAPI\\ECommerceAPI.csproj|c:\\users\\abkrino\\desktop\\ecommerceapi\\ecommerceapi\\ecommerceapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2580493-B306-4589-9298-A9419C75B8C5}|ECommerceAPI\\ECommerceAPI.csproj|solutionrelative:ecommerceapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2580493-B306-4589-9298-A9419C75B8C5}|ECommerceAPI\\ECommerceAPI.csproj|c:\\users\\abkrino\\desktop\\ecommerceapi\\ecommerceapi\\ecommerceapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2580493-B306-4589-9298-A9419C75B8C5}|ECommerceAPI\\ECommerceAPI.csproj|solutionrelative:ecommerceapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2580493-B306-4589-9298-A9419C75B8C5}|ECommerceAPI\\ECommerceAPI.csproj|c:\\users\\abkrino\\desktop\\ecommerceapi\\ecommerceapi\\ecommerceapi\\dto\\detailedorderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2580493-B306-4589-9298-A9419C75B8C5}|ECommerceAPI\\ECommerceAPI.csproj|solutionrelative:ecommerceapi\\dto\\detailedorderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2580493-B306-4589-9298-A9419C75B8C5}|ECommerceAPI\\ECommerceAPI.csproj|c:\\users\\abkrino\\desktop\\ecommerceapi\\ecommerceapi\\ecommerceapi\\dto\\detailedorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2580493-B306-4589-9298-A9419C75B8C5}|ECommerceAPI\\ECommerceAPI.csproj|solutionrelative:ecommerceapi\\dto\\detailedorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2580493-B306-4589-9298-A9419C75B8C5}|ECommerceAPI\\ECommerceAPI.csproj|c:\\users\\abkrino\\desktop\\ecommerceapi\\ecommerceapi\\ecommerceapi\\dto\\orderitemdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2580493-B306-4589-9298-A9419C75B8C5}|ECommerceAPI\\ECommerceAPI.csproj|solutionrelative:ecommerceapi\\dto\\orderitemdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2580493-B306-4589-9298-A9419C75B8C5}|ECommerceAPI\\ECommerceAPI.csproj|c:\\users\\abkrino\\desktop\\ecommerceapi\\ecommerceapi\\ecommerceapi\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2580493-B306-4589-9298-A9419C75B8C5}|ECommerceAPI\\ECommerceAPI.csproj|solutionrelative:ecommerceapi\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2580493-B306-4589-9298-A9419C75B8C5}|ECommerceAPI\\ECommerceAPI.csproj|c:\\users\\abkrino\\desktop\\ecommerceapi\\ecommerceapi\\ecommerceapi\\dto\\customerresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2580493-B306-4589-9298-A9419C75B8C5}|ECommerceAPI\\ECommerceAPI.csproj|solutionrelative:ecommerceapi\\dto\\customerresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2580493-B306-4589-9298-A9419C75B8C5}|ECommerceAPI\\ECommerceAPI.csproj|c:\\users\\abkrino\\desktop\\ecommerceapi\\ecommerceapi\\ecommerceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E2580493-B306-4589-9298-A9419C75B8C5}|ECommerceAPI\\ECommerceAPI.csproj|solutionrelative:ecommerceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\Data\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ECommerceAPI\\Data\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\Data\\ProductRepository.cs",
+              "RelativeToolTip": "ECommerceAPI\\Data\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:42:34.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ECommerceAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ECommerceAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAjwFsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:42:34.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductFormDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\DTO\\ProductFormDTO.cs",
+              "RelativeDocumentMoniker": "ECommerceAPI\\DTO\\ProductFormDTO.cs",
+              "ToolTip": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\DTO\\ProductFormDTO.cs",
+              "RelativeToolTip": "ECommerceAPI\\DTO\\ProductFormDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:42:34.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\DTO\\ProductResponseDTO.cs",
+              "RelativeDocumentMoniker": "ECommerceAPI\\DTO\\ProductResponseDTO.cs",
+              "ToolTip": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\DTO\\ProductResponseDTO.cs",
+              "RelativeToolTip": "ECommerceAPI\\DTO\\ProductResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:42:34.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "APIResponse.cs",
+              "DocumentMoniker": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\Models\\APIResponse.cs",
+              "RelativeDocumentMoniker": "ECommerceAPI\\Models\\APIResponse.cs",
+              "ToolTip": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\Models\\APIResponse.cs",
+              "RelativeToolTip": "ECommerceAPI\\Models\\APIResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:42:34.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SqlConnectionFactory.cs",
+              "DocumentMoniker": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\Data\\SqlConnectionFactory.cs",
+              "RelativeDocumentMoniker": "ECommerceAPI\\Data\\SqlConnectionFactory.cs",
+              "ToolTip": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\Data\\SqlConnectionFactory.cs",
+              "RelativeToolTip": "ECommerceAPI\\Data\\SqlConnectionFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:42:34.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\DTO\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "ECommerceAPI\\DTO\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\DTO\\ProductDTO.cs",
+              "RelativeToolTip": "ECommerceAPI\\DTO\\ProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:42:34.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ECommerceAPI\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\Models\\Product.cs",
+              "RelativeToolTip": "ECommerceAPI\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:42:34.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "ECommerceAPI\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "ECommerceAPI\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowHUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:42:34.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateOrderResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\DTO\\CreateOrderResponseDTO.cs",
+              "RelativeDocumentMoniker": "ECommerceAPI\\DTO\\CreateOrderResponseDTO.cs",
+              "ToolTip": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\DTO\\CreateOrderResponseDTO.cs",
+              "RelativeToolTip": "ECommerceAPI\\DTO\\CreateOrderResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:42:34.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\DTO\\CustomerDTO.cs",
+              "RelativeDocumentMoniker": "ECommerceAPI\\DTO\\CustomerDTO.cs",
+              "ToolTip": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\DTO\\CustomerDTO.cs",
+              "RelativeToolTip": "ECommerceAPI\\DTO\\CustomerDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:42:34.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "ECommerceAPI\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "ECommerceAPI\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAADkAAADg/P////8vwDUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:42:34.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\Data\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "ECommerceAPI\\Data\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\Data\\OrderRepository.cs",
+              "RelativeToolTip": "ECommerceAPI\\Data\\OrderRepository.cs",
+              "ViewState": "AgIAAMcAAAAA/P///38vwBIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:42:34.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\Data\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "ECommerceAPI\\Data\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\Data\\CustomerRepository.cs",
+              "RelativeToolTip": "ECommerceAPI\\Data\\CustomerRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwL4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:42:34.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ECommerceAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\Program.cs",
+              "RelativeToolTip": "ECommerceAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:42:34.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "ECommerceAPI\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\Models\\OrderItem.cs",
+              "RelativeToolTip": "ECommerceAPI\\Models\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:42:34.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "ECommerceAPI\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\Models\\Order.cs",
+              "RelativeToolTip": "ECommerceAPI\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:42:34.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "ECommerceAPI\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\Models\\Customer.cs",
+              "RelativeToolTip": "ECommerceAPI\\Models\\Customer.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAADwvw0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:42:34.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DetailedOrderItemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\DTO\\DetailedOrderItemDTO.cs",
+              "RelativeDocumentMoniker": "ECommerceAPI\\DTO\\DetailedOrderItemDTO.cs",
+              "ToolTip": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\DTO\\DetailedOrderItemDTO.cs",
+              "RelativeToolTip": "ECommerceAPI\\DTO\\DetailedOrderItemDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:42:34.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DetailedOrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\DTO\\DetailedOrderDTO.cs",
+              "RelativeDocumentMoniker": "ECommerceAPI\\DTO\\DetailedOrderDTO.cs",
+              "ToolTip": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\DTO\\DetailedOrderDTO.cs",
+              "RelativeToolTip": "ECommerceAPI\\DTO\\DetailedOrderDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:42:34.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\DTO\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "ECommerceAPI\\DTO\\OrderDTO.cs",
+              "ToolTip": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\DTO\\OrderDTO.cs",
+              "RelativeToolTip": "ECommerceAPI\\DTO\\OrderDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:42:34.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrderItemDetailsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\DTO\\OrderItemDetailsDTO.cs",
+              "RelativeDocumentMoniker": "ECommerceAPI\\DTO\\OrderItemDetailsDTO.cs",
+              "ToolTip": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\DTO\\OrderItemDetailsDTO.cs",
+              "RelativeToolTip": "ECommerceAPI\\DTO\\OrderItemDetailsDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:42:34.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CustomerResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\DTO\\CustomerResponseDTO.cs",
+              "RelativeDocumentMoniker": "ECommerceAPI\\DTO\\CustomerResponseDTO.cs",
+              "ToolTip": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\DTO\\CustomerResponseDTO.cs",
+              "RelativeToolTip": "ECommerceAPI\\DTO\\CustomerResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:42:34.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ECommerceAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\appsettings.json",
+              "RelativeToolTip": "ECommerceAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-02T08:42:34.37Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/ECommerceAPI/images/4a1a5735-a704-41b0-8edf-fc8d4e209310_8f18fc1d-7a78-49cb-8d1f-fde2cd93925c (1).58za7lzan4.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\4a1a5735-a704-41b0-8edf-fc8d4e209310_8f18fc1d-7a78-49cb-8d1f-fde2cd93925c (1).png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"58za7lzan4"},{"Name":"integrity","Value":"sha256-K6TwHJtJTx6Ba\u002BqGfHrV3Qpb09YLLKsNGMmhnrgHxlQ="},{"Name":"label","Value":"_content/ECommerceAPI/images/4a1a5735-a704-41b0-8edf-fc8d4e209310_8f18fc1d-7a78-49cb-8d1f-fde2cd93925c (1).png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9609687"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022K6TwHJtJTx6Ba\u002BqGfHrV3Qpb09YLLKsNGMmhnrgHxlQ=\u0022"},{"Name":"Last-Modified","Value":"Sun, 29 Dec 2024 06:08:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ECommerceAPI/images/4a1a5735-a704-41b0-8edf-fc8d4e209310_8f18fc1d-7a78-49cb-8d1f-fde2cd93925c (1).png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\4a1a5735-a704-41b0-8edf-fc8d4e209310_8f18fc1d-7a78-49cb-8d1f-fde2cd93925c (1).png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-K6TwHJtJTx6Ba\u002BqGfHrV3Qpb09YLLKsNGMmhnrgHxlQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"9609687"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022K6TwHJtJTx6Ba\u002BqGfHrV3Qpb09YLLKsNGMmhnrgHxlQ=\u0022"},{"Name":"Last-Modified","Value":"Sun, 29 Dec 2024 06:08:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ECommerceAPI/images/552390ce-dd26-4a8b-9726-49b0f6d7eade_8f18fc1d-7a78-49cb-8d1f-fde2cd93925c (1).58za7lzan4.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\552390ce-dd26-4a8b-9726-49b0f6d7eade_8f18fc1d-7a78-49cb-8d1f-fde2cd93925c (1).png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"58za7lzan4"},{"Name":"integrity","Value":"sha256-K6TwHJtJTx6Ba\u002BqGfHrV3Qpb09YLLKsNGMmhnrgHxlQ="},{"Name":"label","Value":"_content/ECommerceAPI/images/552390ce-dd26-4a8b-9726-49b0f6d7eade_8f18fc1d-7a78-49cb-8d1f-fde2cd93925c (1).png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9609687"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022K6TwHJtJTx6Ba\u002BqGfHrV3Qpb09YLLKsNGMmhnrgHxlQ=\u0022"},{"Name":"Last-Modified","Value":"Sun, 29 Dec 2024 06:08:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ECommerceAPI/images/552390ce-dd26-4a8b-9726-49b0f6d7eade_8f18fc1d-7a78-49cb-8d1f-fde2cd93925c (1).png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\552390ce-dd26-4a8b-9726-49b0f6d7eade_8f18fc1d-7a78-49cb-8d1f-fde2cd93925c (1).png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-K6TwHJtJTx6Ba\u002BqGfHrV3Qpb09YLLKsNGMmhnrgHxlQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"9609687"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022K6TwHJtJTx6Ba\u002BqGfHrV3Qpb09YLLKsNGMmhnrgHxlQ=\u0022"},{"Name":"Last-Modified","Value":"Sun, 29 Dec 2024 06:08:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ECommerceAPI/images/5ef44313-089a-4c66-b055-a687800f0cc4_apple-iphone-16-3-removebg-preview.ow1ijng5qf.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\5ef44313-089a-4c66-b055-a687800f0cc4_apple-iphone-16-3-removebg-preview.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ow1ijng5qf"},{"Name":"integrity","Value":"sha256-2DapyqzepQqo0F\u002BtNezzQvOokKRs4yhcLRcJL\u002BALmhM="},{"Name":"label","Value":"_content/ECommerceAPI/images/5ef44313-089a-4c66-b055-a687800f0cc4_apple-iphone-16-3-removebg-preview.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"315072"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00222DapyqzepQqo0F\u002BtNezzQvOokKRs4yhcLRcJL\u002BALmhM=\u0022"},{"Name":"Last-Modified","Value":"Sun, 29 Dec 2024 06:08:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ECommerceAPI/images/5ef44313-089a-4c66-b055-a687800f0cc4_apple-iphone-16-3-removebg-preview.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\5ef44313-089a-4c66-b055-a687800f0cc4_apple-iphone-16-3-removebg-preview.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-2DapyqzepQqo0F\u002BtNezzQvOokKRs4yhcLRcJL\u002BALmhM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"315072"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00222DapyqzepQqo0F\u002BtNezzQvOokKRs4yhcLRcJL\u002BALmhM=\u0022"},{"Name":"Last-Modified","Value":"Sun, 29 Dec 2024 06:08:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ECommerceAPI/images/a12ef0ff-ef0d-4872-a11e-232122e9ac47_apple-iphone-16-ultramarine-2-removebg-preview.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\a12ef0ff-ef0d-4872-a11e-232122e9ac47_apple-iphone-16-ultramarine-2-removebg-preview.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-9VldCMQSESPcrMrhylPkkq/aa1L/axHBfrmDunw5RsI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"82984"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00229VldCMQSESPcrMrhylPkkq/aa1L/axHBfrmDunw5RsI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 29 Dec 2024 06:08:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ECommerceAPI/images/a12ef0ff-ef0d-4872-a11e-232122e9ac47_apple-iphone-16-ultramarine-2-removebg-preview.vz471kelxw.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\a12ef0ff-ef0d-4872-a11e-232122e9ac47_apple-iphone-16-ultramarine-2-removebg-preview.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vz471kelxw"},{"Name":"integrity","Value":"sha256-9VldCMQSESPcrMrhylPkkq/aa1L/axHBfrmDunw5RsI="},{"Name":"label","Value":"_content/ECommerceAPI/images/a12ef0ff-ef0d-4872-a11e-232122e9ac47_apple-iphone-16-ultramarine-2-removebg-preview.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"82984"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00229VldCMQSESPcrMrhylPkkq/aa1L/axHBfrmDunw5RsI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 29 Dec 2024 06:08:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ECommerceAPI/images/ac11c396-042e-445e-b07d-535059ed499d_c72195b6-426e-496a-9750-352cdbb70b61.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\ac11c396-042e-445e-b07d-535059ed499d_c72195b6-426e-496a-9750-352cdbb70b61.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-JYWfxXFnojzxITnJ5D1gmCGS1ou6G1Ouw32aT5w9fYU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"5941663"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022JYWfxXFnojzxITnJ5D1gmCGS1ou6G1Ouw32aT5w9fYU=\u0022"},{"Name":"Last-Modified","Value":"Sun, 29 Dec 2024 06:08:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ECommerceAPI/images/ac11c396-042e-445e-b07d-535059ed499d_c72195b6-426e-496a-9750-352cdbb70b61.zir66h4jut.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\ac11c396-042e-445e-b07d-535059ed499d_c72195b6-426e-496a-9750-352cdbb70b61.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zir66h4jut"},{"Name":"integrity","Value":"sha256-JYWfxXFnojzxITnJ5D1gmCGS1ou6G1Ouw32aT5w9fYU="},{"Name":"label","Value":"_content/ECommerceAPI/images/ac11c396-042e-445e-b07d-535059ed499d_c72195b6-426e-496a-9750-352cdbb70b61.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5941663"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022JYWfxXFnojzxITnJ5D1gmCGS1ou6G1Ouw32aT5w9fYU=\u0022"},{"Name":"Last-Modified","Value":"Sun, 29 Dec 2024 06:08:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ECommerceAPI/images/e0c2c42d-e132-4998-a7f6-f6dab212a8cb_apple-iphone-16-ultramarine-2-removebg-preview.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\e0c2c42d-e132-4998-a7f6-f6dab212a8cb_apple-iphone-16-ultramarine-2-removebg-preview.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-9VldCMQSESPcrMrhylPkkq/aa1L/axHBfrmDunw5RsI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"82984"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00229VldCMQSESPcrMrhylPkkq/aa1L/axHBfrmDunw5RsI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 29 Dec 2024 06:08:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ECommerceAPI/images/e0c2c42d-e132-4998-a7f6-f6dab212a8cb_apple-iphone-16-ultramarine-2-removebg-preview.vz471kelxw.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\e0c2c42d-e132-4998-a7f6-f6dab212a8cb_apple-iphone-16-ultramarine-2-removebg-preview.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vz471kelxw"},{"Name":"integrity","Value":"sha256-9VldCMQSESPcrMrhylPkkq/aa1L/axHBfrmDunw5RsI="},{"Name":"label","Value":"_content/ECommerceAPI/images/e0c2c42d-e132-4998-a7f6-f6dab212a8cb_apple-iphone-16-ultramarine-2-removebg-preview.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"82984"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00229VldCMQSESPcrMrhylPkkq/aa1L/axHBfrmDunw5RsI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 29 Dec 2024 06:08:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ECommerceAPI/images/ee61cc0f-cfcd-4345-9a7d-6ff4bec64f3f_apple-iphone-16-3-removebg-preview.ow1ijng5qf.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\ee61cc0f-cfcd-4345-9a7d-6ff4bec64f3f_apple-iphone-16-3-removebg-preview.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ow1ijng5qf"},{"Name":"integrity","Value":"sha256-2DapyqzepQqo0F\u002BtNezzQvOokKRs4yhcLRcJL\u002BALmhM="},{"Name":"label","Value":"_content/ECommerceAPI/images/ee61cc0f-cfcd-4345-9a7d-6ff4bec64f3f_apple-iphone-16-3-removebg-preview.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"315072"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00222DapyqzepQqo0F\u002BtNezzQvOokKRs4yhcLRcJL\u002BALmhM=\u0022"},{"Name":"Last-Modified","Value":"Sun, 29 Dec 2024 06:08:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ECommerceAPI/images/ee61cc0f-cfcd-4345-9a7d-6ff4bec64f3f_apple-iphone-16-3-removebg-preview.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\ee61cc0f-cfcd-4345-9a7d-6ff4bec64f3f_apple-iphone-16-3-removebg-preview.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-2DapyqzepQqo0F\u002BtNezzQvOokKRs4yhcLRcJL\u002BALmhM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"315072"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00222DapyqzepQqo0F\u002BtNezzQvOokKRs4yhcLRcJL\u002BALmhM=\u0022"},{"Name":"Last-Modified","Value":"Sun, 29 Dec 2024 06:08:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ECommerceAPI/images/ef36b3ed-cebc-4ee4-ae6b-459cc561a79d_c72195b6-426e-496a-9750-352cdbb70b61.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\ef36b3ed-cebc-4ee4-ae6b-459cc561a79d_c72195b6-426e-496a-9750-352cdbb70b61.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-JYWfxXFnojzxITnJ5D1gmCGS1ou6G1Ouw32aT5w9fYU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"5941663"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022JYWfxXFnojzxITnJ5D1gmCGS1ou6G1Ouw32aT5w9fYU=\u0022"},{"Name":"Last-Modified","Value":"Sun, 29 Dec 2024 06:08:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ECommerceAPI/images/ef36b3ed-cebc-4ee4-ae6b-459cc561a79d_c72195b6-426e-496a-9750-352cdbb70b61.zir66h4jut.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\ef36b3ed-cebc-4ee4-ae6b-459cc561a79d_c72195b6-426e-496a-9750-352cdbb70b61.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zir66h4jut"},{"Name":"integrity","Value":"sha256-JYWfxXFnojzxITnJ5D1gmCGS1ou6G1Ouw32aT5w9fYU="},{"Name":"label","Value":"_content/ECommerceAPI/images/ef36b3ed-cebc-4ee4-ae6b-459cc561a79d_c72195b6-426e-496a-9750-352cdbb70b61.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5941663"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022JYWfxXFnojzxITnJ5D1gmCGS1ou6G1Ouw32aT5w9fYU=\u0022"},{"Name":"Last-Modified","Value":"Sun, 29 Dec 2024 06:08:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,846 @@
+{
+  "Version": 1,
+  "Hash": "/2HyhT44MaP1TJR7dQtuROVO2j1VMk2vC/0WF2UOUno=",
+  "Source": "ECommerceAPI",
+  "BasePath": "_content/ECommerceAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ECommerceAPI\\wwwroot",
+      "Source": "ECommerceAPI",
+      "ContentRoot": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\wwwroot\\",
+      "BasePath": "_content/ECommerceAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\wwwroot\\images\\4a1a5735-a704-41b0-8edf-fc8d4e209310_8f18fc1d-7a78-49cb-8d1f-fde2cd93925c (1).png",
+      "SourceId": "ECommerceAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\wwwroot\\",
+      "BasePath": "_content/ECommerceAPI",
+      "RelativePath": "images/4a1a5735-a704-41b0-8edf-fc8d4e209310_8f18fc1d-7a78-49cb-8d1f-fde2cd93925c (1)#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "58za7lzan4",
+      "Integrity": "K6TwHJtJTx6Ba+qGfHrV3Qpb09YLLKsNGMmhnrgHxlQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\4a1a5735-a704-41b0-8edf-fc8d4e209310_8f18fc1d-7a78-49cb-8d1f-fde2cd93925c (1).png"
+    },
+    {
+      "Identity": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\wwwroot\\images\\552390ce-dd26-4a8b-9726-49b0f6d7eade_8f18fc1d-7a78-49cb-8d1f-fde2cd93925c (1).png",
+      "SourceId": "ECommerceAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\wwwroot\\",
+      "BasePath": "_content/ECommerceAPI",
+      "RelativePath": "images/552390ce-dd26-4a8b-9726-49b0f6d7eade_8f18fc1d-7a78-49cb-8d1f-fde2cd93925c (1)#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "58za7lzan4",
+      "Integrity": "K6TwHJtJTx6Ba+qGfHrV3Qpb09YLLKsNGMmhnrgHxlQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\552390ce-dd26-4a8b-9726-49b0f6d7eade_8f18fc1d-7a78-49cb-8d1f-fde2cd93925c (1).png"
+    },
+    {
+      "Identity": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\wwwroot\\images\\5ef44313-089a-4c66-b055-a687800f0cc4_apple-iphone-16-3-removebg-preview.png",
+      "SourceId": "ECommerceAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\wwwroot\\",
+      "BasePath": "_content/ECommerceAPI",
+      "RelativePath": "images/5ef44313-089a-4c66-b055-a687800f0cc4_apple-iphone-16-3-removebg-preview#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ow1ijng5qf",
+      "Integrity": "2DapyqzepQqo0F+tNezzQvOokKRs4yhcLRcJL+ALmhM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\5ef44313-089a-4c66-b055-a687800f0cc4_apple-iphone-16-3-removebg-preview.png"
+    },
+    {
+      "Identity": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\wwwroot\\images\\a12ef0ff-ef0d-4872-a11e-232122e9ac47_apple-iphone-16-ultramarine-2-removebg-preview.png",
+      "SourceId": "ECommerceAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\wwwroot\\",
+      "BasePath": "_content/ECommerceAPI",
+      "RelativePath": "images/a12ef0ff-ef0d-4872-a11e-232122e9ac47_apple-iphone-16-ultramarine-2-removebg-preview#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vz471kelxw",
+      "Integrity": "9VldCMQSESPcrMrhylPkkq/aa1L/axHBfrmDunw5RsI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\a12ef0ff-ef0d-4872-a11e-232122e9ac47_apple-iphone-16-ultramarine-2-removebg-preview.png"
+    },
+    {
+      "Identity": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\wwwroot\\images\\ac11c396-042e-445e-b07d-535059ed499d_c72195b6-426e-496a-9750-352cdbb70b61.png",
+      "SourceId": "ECommerceAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\wwwroot\\",
+      "BasePath": "_content/ECommerceAPI",
+      "RelativePath": "images/ac11c396-042e-445e-b07d-535059ed499d_c72195b6-426e-496a-9750-352cdbb70b61#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zir66h4jut",
+      "Integrity": "JYWfxXFnojzxITnJ5D1gmCGS1ou6G1Ouw32aT5w9fYU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\ac11c396-042e-445e-b07d-535059ed499d_c72195b6-426e-496a-9750-352cdbb70b61.png"
+    },
+    {
+      "Identity": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\wwwroot\\images\\e0c2c42d-e132-4998-a7f6-f6dab212a8cb_apple-iphone-16-ultramarine-2-removebg-preview.png",
+      "SourceId": "ECommerceAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\wwwroot\\",
+      "BasePath": "_content/ECommerceAPI",
+      "RelativePath": "images/e0c2c42d-e132-4998-a7f6-f6dab212a8cb_apple-iphone-16-ultramarine-2-removebg-preview#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vz471kelxw",
+      "Integrity": "9VldCMQSESPcrMrhylPkkq/aa1L/axHBfrmDunw5RsI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\e0c2c42d-e132-4998-a7f6-f6dab212a8cb_apple-iphone-16-ultramarine-2-removebg-preview.png"
+    },
+    {
+      "Identity": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\wwwroot\\images\\ee61cc0f-cfcd-4345-9a7d-6ff4bec64f3f_apple-iphone-16-3-removebg-preview.png",
+      "SourceId": "ECommerceAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\wwwroot\\",
+      "BasePath": "_content/ECommerceAPI",
+      "RelativePath": "images/ee61cc0f-cfcd-4345-9a7d-6ff4bec64f3f_apple-iphone-16-3-removebg-preview#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ow1ijng5qf",
+      "Integrity": "2DapyqzepQqo0F+tNezzQvOokKRs4yhcLRcJL+ALmhM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\ee61cc0f-cfcd-4345-9a7d-6ff4bec64f3f_apple-iphone-16-3-removebg-preview.png"
+    },
+    {
+      "Identity": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\wwwroot\\images\\ef36b3ed-cebc-4ee4-ae6b-459cc561a79d_c72195b6-426e-496a-9750-352cdbb70b61.png",
+      "SourceId": "ECommerceAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\wwwroot\\",
+      "BasePath": "_content/ECommerceAPI",
+      "RelativePath": "images/ef36b3ed-cebc-4ee4-ae6b-459cc561a79d_c72195b6-426e-496a-9750-352cdbb70b61#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zir66h4jut",
+      "Integrity": "JYWfxXFnojzxITnJ5D1gmCGS1ou6G1Ouw32aT5w9fYU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\ef36b3ed-cebc-4ee4-ae6b-459cc561a79d_c72195b6-426e-496a-9750-352cdbb70b61.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/4a1a5735-a704-41b0-8edf-fc8d4e209310_8f18fc1d-7a78-49cb-8d1f-fde2cd93925c (1).58za7lzan4.png",
+      "AssetFile": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\wwwroot\\images\\4a1a5735-a704-41b0-8edf-fc8d4e209310_8f18fc1d-7a78-49cb-8d1f-fde2cd93925c (1).png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9609687"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K6TwHJtJTx6Ba+qGfHrV3Qpb09YLLKsNGMmhnrgHxlQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 29 Dec 2024 06:08:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "58za7lzan4"
+        },
+        {
+          "Name": "label",
+          "Value": "images/4a1a5735-a704-41b0-8edf-fc8d4e209310_8f18fc1d-7a78-49cb-8d1f-fde2cd93925c (1).png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-K6TwHJtJTx6Ba+qGfHrV3Qpb09YLLKsNGMmhnrgHxlQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/4a1a5735-a704-41b0-8edf-fc8d4e209310_8f18fc1d-7a78-49cb-8d1f-fde2cd93925c (1).png",
+      "AssetFile": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\wwwroot\\images\\4a1a5735-a704-41b0-8edf-fc8d4e209310_8f18fc1d-7a78-49cb-8d1f-fde2cd93925c (1).png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9609687"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K6TwHJtJTx6Ba+qGfHrV3Qpb09YLLKsNGMmhnrgHxlQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 29 Dec 2024 06:08:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-K6TwHJtJTx6Ba+qGfHrV3Qpb09YLLKsNGMmhnrgHxlQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/552390ce-dd26-4a8b-9726-49b0f6d7eade_8f18fc1d-7a78-49cb-8d1f-fde2cd93925c (1).58za7lzan4.png",
+      "AssetFile": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\wwwroot\\images\\552390ce-dd26-4a8b-9726-49b0f6d7eade_8f18fc1d-7a78-49cb-8d1f-fde2cd93925c (1).png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9609687"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K6TwHJtJTx6Ba+qGfHrV3Qpb09YLLKsNGMmhnrgHxlQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 29 Dec 2024 06:08:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "58za7lzan4"
+        },
+        {
+          "Name": "label",
+          "Value": "images/552390ce-dd26-4a8b-9726-49b0f6d7eade_8f18fc1d-7a78-49cb-8d1f-fde2cd93925c (1).png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-K6TwHJtJTx6Ba+qGfHrV3Qpb09YLLKsNGMmhnrgHxlQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/552390ce-dd26-4a8b-9726-49b0f6d7eade_8f18fc1d-7a78-49cb-8d1f-fde2cd93925c (1).png",
+      "AssetFile": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\wwwroot\\images\\552390ce-dd26-4a8b-9726-49b0f6d7eade_8f18fc1d-7a78-49cb-8d1f-fde2cd93925c (1).png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9609687"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K6TwHJtJTx6Ba+qGfHrV3Qpb09YLLKsNGMmhnrgHxlQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 29 Dec 2024 06:08:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-K6TwHJtJTx6Ba+qGfHrV3Qpb09YLLKsNGMmhnrgHxlQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/5ef44313-089a-4c66-b055-a687800f0cc4_apple-iphone-16-3-removebg-preview.ow1ijng5qf.png",
+      "AssetFile": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\wwwroot\\images\\5ef44313-089a-4c66-b055-a687800f0cc4_apple-iphone-16-3-removebg-preview.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "315072"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2DapyqzepQqo0F+tNezzQvOokKRs4yhcLRcJL+ALmhM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 29 Dec 2024 06:08:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ow1ijng5qf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/5ef44313-089a-4c66-b055-a687800f0cc4_apple-iphone-16-3-removebg-preview.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2DapyqzepQqo0F+tNezzQvOokKRs4yhcLRcJL+ALmhM="
+        }
+      ]
+    },
+    {
+      "Route": "images/5ef44313-089a-4c66-b055-a687800f0cc4_apple-iphone-16-3-removebg-preview.png",
+      "AssetFile": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\wwwroot\\images\\5ef44313-089a-4c66-b055-a687800f0cc4_apple-iphone-16-3-removebg-preview.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "315072"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2DapyqzepQqo0F+tNezzQvOokKRs4yhcLRcJL+ALmhM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 29 Dec 2024 06:08:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2DapyqzepQqo0F+tNezzQvOokKRs4yhcLRcJL+ALmhM="
+        }
+      ]
+    },
+    {
+      "Route": "images/a12ef0ff-ef0d-4872-a11e-232122e9ac47_apple-iphone-16-ultramarine-2-removebg-preview.png",
+      "AssetFile": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\wwwroot\\images\\a12ef0ff-ef0d-4872-a11e-232122e9ac47_apple-iphone-16-ultramarine-2-removebg-preview.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "82984"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9VldCMQSESPcrMrhylPkkq/aa1L/axHBfrmDunw5RsI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 29 Dec 2024 06:08:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9VldCMQSESPcrMrhylPkkq/aa1L/axHBfrmDunw5RsI="
+        }
+      ]
+    },
+    {
+      "Route": "images/a12ef0ff-ef0d-4872-a11e-232122e9ac47_apple-iphone-16-ultramarine-2-removebg-preview.vz471kelxw.png",
+      "AssetFile": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\wwwroot\\images\\a12ef0ff-ef0d-4872-a11e-232122e9ac47_apple-iphone-16-ultramarine-2-removebg-preview.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "82984"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9VldCMQSESPcrMrhylPkkq/aa1L/axHBfrmDunw5RsI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 29 Dec 2024 06:08:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vz471kelxw"
+        },
+        {
+          "Name": "label",
+          "Value": "images/a12ef0ff-ef0d-4872-a11e-232122e9ac47_apple-iphone-16-ultramarine-2-removebg-preview.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9VldCMQSESPcrMrhylPkkq/aa1L/axHBfrmDunw5RsI="
+        }
+      ]
+    },
+    {
+      "Route": "images/ac11c396-042e-445e-b07d-535059ed499d_c72195b6-426e-496a-9750-352cdbb70b61.png",
+      "AssetFile": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\wwwroot\\images\\ac11c396-042e-445e-b07d-535059ed499d_c72195b6-426e-496a-9750-352cdbb70b61.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5941663"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JYWfxXFnojzxITnJ5D1gmCGS1ou6G1Ouw32aT5w9fYU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 29 Dec 2024 06:08:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JYWfxXFnojzxITnJ5D1gmCGS1ou6G1Ouw32aT5w9fYU="
+        }
+      ]
+    },
+    {
+      "Route": "images/ac11c396-042e-445e-b07d-535059ed499d_c72195b6-426e-496a-9750-352cdbb70b61.zir66h4jut.png",
+      "AssetFile": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\wwwroot\\images\\ac11c396-042e-445e-b07d-535059ed499d_c72195b6-426e-496a-9750-352cdbb70b61.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5941663"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JYWfxXFnojzxITnJ5D1gmCGS1ou6G1Ouw32aT5w9fYU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 29 Dec 2024 06:08:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zir66h4jut"
+        },
+        {
+          "Name": "label",
+          "Value": "images/ac11c396-042e-445e-b07d-535059ed499d_c72195b6-426e-496a-9750-352cdbb70b61.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JYWfxXFnojzxITnJ5D1gmCGS1ou6G1Ouw32aT5w9fYU="
+        }
+      ]
+    },
+    {
+      "Route": "images/e0c2c42d-e132-4998-a7f6-f6dab212a8cb_apple-iphone-16-ultramarine-2-removebg-preview.png",
+      "AssetFile": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\wwwroot\\images\\e0c2c42d-e132-4998-a7f6-f6dab212a8cb_apple-iphone-16-ultramarine-2-removebg-preview.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "82984"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9VldCMQSESPcrMrhylPkkq/aa1L/axHBfrmDunw5RsI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 29 Dec 2024 06:08:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9VldCMQSESPcrMrhylPkkq/aa1L/axHBfrmDunw5RsI="
+        }
+      ]
+    },
+    {
+      "Route": "images/e0c2c42d-e132-4998-a7f6-f6dab212a8cb_apple-iphone-16-ultramarine-2-removebg-preview.vz471kelxw.png",
+      "AssetFile": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\wwwroot\\images\\e0c2c42d-e132-4998-a7f6-f6dab212a8cb_apple-iphone-16-ultramarine-2-removebg-preview.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "82984"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9VldCMQSESPcrMrhylPkkq/aa1L/axHBfrmDunw5RsI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 29 Dec 2024 06:08:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vz471kelxw"
+        },
+        {
+          "Name": "label",
+          "Value": "images/e0c2c42d-e132-4998-a7f6-f6dab212a8cb_apple-iphone-16-ultramarine-2-removebg-preview.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9VldCMQSESPcrMrhylPkkq/aa1L/axHBfrmDunw5RsI="
+        }
+      ]
+    },
+    {
+      "Route": "images/ee61cc0f-cfcd-4345-9a7d-6ff4bec64f3f_apple-iphone-16-3-removebg-preview.ow1ijng5qf.png",
+      "AssetFile": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\wwwroot\\images\\ee61cc0f-cfcd-4345-9a7d-6ff4bec64f3f_apple-iphone-16-3-removebg-preview.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "315072"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2DapyqzepQqo0F+tNezzQvOokKRs4yhcLRcJL+ALmhM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 29 Dec 2024 06:08:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ow1ijng5qf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/ee61cc0f-cfcd-4345-9a7d-6ff4bec64f3f_apple-iphone-16-3-removebg-preview.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2DapyqzepQqo0F+tNezzQvOokKRs4yhcLRcJL+ALmhM="
+        }
+      ]
+    },
+    {
+      "Route": "images/ee61cc0f-cfcd-4345-9a7d-6ff4bec64f3f_apple-iphone-16-3-removebg-preview.png",
+      "AssetFile": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\wwwroot\\images\\ee61cc0f-cfcd-4345-9a7d-6ff4bec64f3f_apple-iphone-16-3-removebg-preview.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "315072"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2DapyqzepQqo0F+tNezzQvOokKRs4yhcLRcJL+ALmhM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 29 Dec 2024 06:08:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2DapyqzepQqo0F+tNezzQvOokKRs4yhcLRcJL+ALmhM="
+        }
+      ]
+    },
+    {
+      "Route": "images/ef36b3ed-cebc-4ee4-ae6b-459cc561a79d_c72195b6-426e-496a-9750-352cdbb70b61.png",
+      "AssetFile": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\wwwroot\\images\\ef36b3ed-cebc-4ee4-ae6b-459cc561a79d_c72195b6-426e-496a-9750-352cdbb70b61.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5941663"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JYWfxXFnojzxITnJ5D1gmCGS1ou6G1Ouw32aT5w9fYU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 29 Dec 2024 06:08:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JYWfxXFnojzxITnJ5D1gmCGS1ou6G1Ouw32aT5w9fYU="
+        }
+      ]
+    },
+    {
+      "Route": "images/ef36b3ed-cebc-4ee4-ae6b-459cc561a79d_c72195b6-426e-496a-9750-352cdbb70b61.zir66h4jut.png",
+      "AssetFile": "C:\\Users\\ABKRINO\\Desktop\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI\\wwwroot\\images\\ef36b3ed-cebc-4ee4-ae6b-459cc561a79d_c72195b6-426e-496a-9750-352cdbb70b61.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5941663"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JYWfxXFnojzxITnJ5D1gmCGS1ou6G1Ouw32aT5w9fYU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 29 Dec 2024 06:08:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zir66h4jut"
+        },
+        {
+          "Name": "label",
+          "Value": "images/ef36b3ed-cebc-4ee4-ae6b-459cc561a79d_c72195b6-426e-496a-9750-352cdbb70b61.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JYWfxXFnojzxITnJ5D1gmCGS1ou6G1Ouw32aT5w9fYU="
+        }
+      ]
+    }
+  ]
+}

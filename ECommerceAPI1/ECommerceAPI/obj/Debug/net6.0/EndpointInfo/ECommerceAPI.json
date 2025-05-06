@@ -1,0 +1,1352 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "ECommerceAPI",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Customer": {
+      "get": {
+        "tags": [
+          "Customer"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/CustomerListAPIResponse"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CustomerListAPIResponse"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CustomerListAPIResponse"
+                }
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Customer"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CustomerDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CustomerDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/CustomerDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/CustomerResponseDTOAPIResponse"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CustomerResponseDTOAPIResponse"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CustomerResponseDTOAPIResponse"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Customer/{id}": {
+      "get": {
+        "tags": [
+          "Customer"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/CustomerAPIResponse"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CustomerAPIResponse"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CustomerAPIResponse"
+                }
+              }
+            }
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Customer"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CustomerDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CustomerDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/CustomerDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/BooleanAPIResponse"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/BooleanAPIResponse"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/BooleanAPIResponse"
+                }
+              }
+            }
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Customer"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/BooleanAPIResponse"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/BooleanAPIResponse"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/BooleanAPIResponse"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Customer/register": {
+      "post": {
+        "tags": [
+          "Customer"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CustomerRegistrationDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CustomerRegistrationDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/CustomerRegistrationDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/CustomerResponseDTOAPIResponse"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CustomerResponseDTOAPIResponse"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CustomerResponseDTOAPIResponse"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Customer/login": {
+      "post": {
+        "tags": [
+          "Customer"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CustomerLoginDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CustomerLoginDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/CustomerLoginDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/CustomerResponseDTOAPIResponse"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CustomerResponseDTOAPIResponse"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CustomerResponseDTOAPIResponse"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Order": {
+      "get": {
+        "tags": [
+          "Order"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/DetailedOrderDTOListAPIResponse"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/DetailedOrderDTOListAPIResponse"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/DetailedOrderDTOListAPIResponse"
+                }
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Order"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/OrderDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/OrderDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/OrderDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/CreateOrderResponseDTOAPIResponse"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CreateOrderResponseDTOAPIResponse"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CreateOrderResponseDTOAPIResponse"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Order/{id}": {
+      "delete": {
+        "tags": [
+          "Order"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/BooleanAPIResponse"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/BooleanAPIResponse"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/BooleanAPIResponse"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Product": {
+      "get": {
+        "tags": [
+          "Product"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProductListAPIResponse"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProductListAPIResponse"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProductListAPIResponse"
+                }
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Product"
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "Name": {
+                    "type": "string"
+                  },
+                  "Price": {
+                    "type": "number",
+                    "format": "double"
+                  },
+                  "Quantity": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "Description": {
+                    "type": "string"
+                  },
+                  "Category": {
+                    "type": "string"
+                  },
+                  "SubCategory": {
+                    "type": "string"
+                  },
+                  "MainImage": {
+                    "type": "string",
+                    "format": "binary"
+                  },
+                  "AdditionalImage1": {
+                    "type": "string",
+                    "format": "binary"
+                  },
+                  "AdditionalImage2": {
+                    "type": "string",
+                    "format": "binary"
+                  },
+                  "AdditionalImage3": {
+                    "type": "string",
+                    "format": "binary"
+                  }
+                }
+              },
+              "encoding": {
+                "Name": {
+                  "style": "form"
+                },
+                "Price": {
+                  "style": "form"
+                },
+                "Quantity": {
+                  "style": "form"
+                },
+                "Description": {
+                  "style": "form"
+                },
+                "Category": {
+                  "style": "form"
+                },
+                "SubCategory": {
+                  "style": "form"
+                },
+                "MainImage": {
+                  "style": "form"
+                },
+                "AdditionalImage1": {
+                  "style": "form"
+                },
+                "AdditionalImage2": {
+                  "style": "form"
+                },
+                "AdditionalImage3": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProductResponseDTOAPIResponse"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProductResponseDTOAPIResponse"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProductResponseDTOAPIResponse"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Product/{id}": {
+      "get": {
+        "tags": [
+          "Product"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProductAPIResponse"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProductAPIResponse"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProductAPIResponse"
+                }
+              }
+            }
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Product"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "Name": {
+                    "type": "string"
+                  },
+                  "Price": {
+                    "type": "number",
+                    "format": "double"
+                  },
+                  "Quantity": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "Description": {
+                    "type": "string"
+                  },
+                  "Category": {
+                    "type": "string"
+                  },
+                  "SubCategory": {
+                    "type": "string"
+                  },
+                  "MainImage": {
+                    "type": "string",
+                    "format": "binary"
+                  },
+                  "AdditionalImage1": {
+                    "type": "string",
+                    "format": "binary"
+                  },
+                  "AdditionalImage2": {
+                    "type": "string",
+                    "format": "binary"
+                  },
+                  "AdditionalImage3": {
+                    "type": "string",
+                    "format": "binary"
+                  }
+                }
+              },
+              "encoding": {
+                "Name": {
+                  "style": "form"
+                },
+                "Price": {
+                  "style": "form"
+                },
+                "Quantity": {
+                  "style": "form"
+                },
+                "Description": {
+                  "style": "form"
+                },
+                "Category": {
+                  "style": "form"
+                },
+                "SubCategory": {
+                  "style": "form"
+                },
+                "MainImage": {
+                  "style": "form"
+                },
+                "AdditionalImage1": {
+                  "style": "form"
+                },
+                "AdditionalImage2": {
+                  "style": "form"
+                },
+                "AdditionalImage3": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/BooleanAPIResponse"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/BooleanAPIResponse"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/BooleanAPIResponse"
+                }
+              }
+            }
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Product"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/BooleanAPIResponse"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/BooleanAPIResponse"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/BooleanAPIResponse"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "BooleanAPIResponse": {
+        "type": "object",
+        "properties": {
+          "Success": {
+            "type": "boolean"
+          },
+          "StatusCode": {
+            "$ref": "#/components/schemas/HttpStatusCode"
+          },
+          "Message": {
+            "type": "string",
+            "nullable": true
+          },
+          "Data": {
+            "type": "boolean"
+          },
+          "Error": {
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "CreateOrderResponseDTO": {
+        "type": "object",
+        "properties": {
+          "OrderId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "Status": {
+            "type": "string",
+            "nullable": true
+          },
+          "Message": {
+            "type": "string",
+            "nullable": true
+          },
+          "IsCreated": {
+            "type": "boolean"
+          }
+        },
+        "additionalProperties": false
+      },
+      "CreateOrderResponseDTOAPIResponse": {
+        "type": "object",
+        "properties": {
+          "Success": {
+            "type": "boolean"
+          },
+          "StatusCode": {
+            "$ref": "#/components/schemas/HttpStatusCode"
+          },
+          "Message": {
+            "type": "string",
+            "nullable": true
+          },
+          "Data": {
+            "$ref": "#/components/schemas/CreateOrderResponseDTO"
+          },
+          "Error": {
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Customer": {
+        "type": "object",
+        "properties": {
+          "CustomerId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "Name": {
+            "type": "string",
+            "nullable": true
+          },
+          "Email": {
+            "type": "string",
+            "nullable": true
+          },
+          "Address": {
+            "type": "string",
+            "nullable": true
+          },
+          "IsDeleted": {
+            "type": "boolean"
+          },
+          "Role": {
+            "type": "string",
+            "nullable": true
+          },
+          "PasswordHash": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "CustomerAPIResponse": {
+        "type": "object",
+        "properties": {
+          "Success": {
+            "type": "boolean"
+          },
+          "StatusCode": {
+            "$ref": "#/components/schemas/HttpStatusCode"
+          },
+          "Message": {
+            "type": "string",
+            "nullable": true
+          },
+          "Data": {
+            "$ref": "#/components/schemas/Customer"
+          },
+          "Error": {
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "CustomerDTO": {
+        "required": [
+          "Email",
+          "Name",
+          "Role"
+        ],
+        "type": "object",
+        "properties": {
+          "CustomerId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "Name": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "Email": {
+            "minLength": 1,
+            "type": "string",
+            "format": "email"
+          },
+          "Address": {
+            "type": "string",
+            "nullable": true
+          },
+          "Role": {
+            "minLength": 1,
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      },
+      "CustomerListAPIResponse": {
+        "type": "object",
+        "properties": {
+          "Success": {
+            "type": "boolean"
+          },
+          "StatusCode": {
+            "$ref": "#/components/schemas/HttpStatusCode"
+          },
+          "Message": {
+            "type": "string",
+            "nullable": true
+          },
+          "Data": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Customer"
+            },
+            "nullable": true
+          },
+          "Error": {
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "CustomerLoginDTO": {
+        "required": [
+          "Email",
+          "Password"
+        ],
+        "type": "object",
+        "properties": {
+          "Email": {
+            "minLength": 1,
+            "type": "string",
+            "format": "email"
+          },
+          "Password": {
+            "minLength": 1,
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      },
+      "CustomerRegistrationDTO": {
+        "required": [
+          "Email",
+          "Name",
+          "Password",
+          "Role"
+        ],
+        "type": "object",
+        "properties": {
+          "Name": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "Email": {
+            "minLength": 1,
+            "type": "string",
+            "format": "email"
+          },
+          "Password": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "Role": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "Address": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "CustomerResponseDTO": {
+        "type": "object",
+        "properties": {
+          "CustomerId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "Token": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "CustomerResponseDTOAPIResponse": {
+        "type": "object",
+        "properties": {
+          "Success": {
+            "type": "boolean"
+          },
+          "StatusCode": {
+            "$ref": "#/components/schemas/HttpStatusCode"
+          },
+          "Message": {
+            "type": "string",
+            "nullable": true
+          },
+          "Data": {
+            "$ref": "#/components/schemas/CustomerResponseDTO"
+          },
+          "Error": {
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "DetailedOrderDTO": {
+        "type": "object",
+        "properties": {
+          "OrderId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "TotalAmount": {
+            "type": "number",
+            "format": "double"
+          },
+          "Status": {
+            "type": "string",
+            "nullable": true
+          },
+          "OrderDate": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "Customer": {
+            "$ref": "#/components/schemas/CustomerDTO"
+          },
+          "Items": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/DetailedOrderItemDTO"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "DetailedOrderDTOListAPIResponse": {
+        "type": "object",
+        "properties": {
+          "Success": {
+            "type": "boolean"
+          },
+          "StatusCode": {
+            "$ref": "#/components/schemas/HttpStatusCode"
+          },
+          "Message": {
+            "type": "string",
+            "nullable": true
+          },
+          "Data": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/DetailedOrderDTO"
+            },
+            "nullable": true
+          },
+          "Error": {
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "DetailedOrderItemDTO": {
+        "type": "object",
+        "properties": {
+          "ProductId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "ProductName": {
+            "type": "string",
+            "nullable": true
+          },
+          "ProductDescription": {
+            "type": "string",
+            "nullable": true
+          },
+          "PriceAtOrder": {
+            "type": "number",
+            "format": "double"
+          },
+          "Quantity": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "HttpStatusCode": {
+        "enum": [
+          100,
+          101,
+          102,
+          103,
+          200,
+          201,
+          202,
+          203,
+          204,
+          205,
+          206,
+          207,
+          208,
+          226,
+          300,
+          301,
+          302,
+          303,
+          304,
+          305,
+          306,
+          307,
+          308,
+          400,
+          401,
+          402,
+          403,
+          404,
+          405,
+          406,
+          407,
+          408,
+          409,
+          410,
+          411,
+          412,
+          413,
+          414,
+          415,
+          416,
+          417,
+          421,
+          422,
+          423,
+          424,
+          426,
+          428,
+          429,
+          431,
+          451,
+          500,
+          501,
+          502,
+          503,
+          504,
+          505,
+          506,
+          507,
+          508,
+          510,
+          511
+        ],
+        "type": "integer",
+        "format": "int32"
+      },
+      "OrderDTO": {
+        "required": [
+          "CustomerId",
+          "Items"
+        ],
+        "type": "object",
+        "properties": {
+          "CustomerId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "Items": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/OrderItemDetailsDTO"
+            }
+          }
+        },
+        "additionalProperties": false
+      },
+      "OrderItemDetailsDTO": {
+        "required": [
+          "ProductId",
+          "Quantity"
+        ],
+        "type": "object",
+        "properties": {
+          "ProductId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "Quantity": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "Product": {
+        "type": "object",
+        "properties": {
+          "ProductId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "Name": {
+            "type": "string",
+            "nullable": true
+          },
+          "Price": {
+            "type": "number",
+            "format": "double"
+          },
+          "Quantity": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "Description": {
+            "type": "string",
+            "nullable": true
+          },
+          "Category": {
+            "type": "string",
+            "nullable": true
+          },
+          "SubCategory": {
+            "type": "string",
+            "nullable": true
+          },
+          "ImagePath": {
+            "type": "string",
+            "nullable": true
+          },
+          "AdditionalImage1": {
+            "type": "string",
+            "nullable": true
+          },
+          "AdditionalImage2": {
+            "type": "string",
+            "nullable": true
+          },
+          "AdditionalImage3": {
+            "type": "string",
+            "nullable": true
+          },
+          "IsDeleted": {
+            "type": "boolean"
+          }
+        },
+        "additionalProperties": false
+      },
+      "ProductAPIResponse": {
+        "type": "object",
+        "properties": {
+          "Success": {
+            "type": "boolean"
+          },
+          "StatusCode": {
+            "$ref": "#/components/schemas/HttpStatusCode"
+          },
+          "Message": {
+            "type": "string",
+            "nullable": true
+          },
+          "Data": {
+            "$ref": "#/components/schemas/Product"
+          },
+          "Error": {
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "ProductListAPIResponse": {
+        "type": "object",
+        "properties": {
+          "Success": {
+            "type": "boolean"
+          },
+          "StatusCode": {
+            "$ref": "#/components/schemas/HttpStatusCode"
+          },
+          "Message": {
+            "type": "string",
+            "nullable": true
+          },
+          "Data": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Product"
+            },
+            "nullable": true
+          },
+          "Error": {
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "ProductResponseDTO": {
+        "type": "object",
+        "properties": {
+          "ProductId": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "ProductResponseDTOAPIResponse": {
+        "type": "object",
+        "properties": {
+          "Success": {
+            "type": "boolean"
+          },
+          "StatusCode": {
+            "$ref": "#/components/schemas/HttpStatusCode"
+          },
+          "Message": {
+            "type": "string",
+            "nullable": true
+          },
+          "Data": {
+            "$ref": "#/components/schemas/ProductResponseDTO"
+          },
+          "Error": {
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}
